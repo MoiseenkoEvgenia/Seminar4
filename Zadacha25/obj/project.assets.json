@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/evgenia/Desktop/Example4!/Zadacha 25/Zadacha 25.csproj",
+      "projectUniqueName": "/Users/evgenia/Desktop/Example4!/Zadacha25/Zadacha 25.csproj",
       "projectName": "Zadacha 25",
-      "projectPath": "/Users/evgenia/Desktop/Example4!/Zadacha 25/Zadacha 25.csproj",
+      "projectPath": "/Users/evgenia/Desktop/Example4!/Zadacha25/Zadacha 25.csproj",
       "packagesPath": "/Users/evgenia/.nuget/packages/",
-      "outputPath": "/Users/evgenia/Desktop/Example4!/Zadacha 25/obj/",
+      "outputPath": "/Users/evgenia/Desktop/Example4!/Zadacha25/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/evgenia/.nuget/NuGet/NuGet.Config"
